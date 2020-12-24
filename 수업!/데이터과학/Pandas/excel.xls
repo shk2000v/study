@@ -1,0 +1,287 @@
+
+
+
+<!-- JSTL-->
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<table>
+	<tr align=center>
+		<td colspan=20><font size=5>회차별 추첨결과</font></td>
+	</tr>
+	</table>
+	
+	<table border="1">
+		 
+		<tr align=center bgcolor="#CCFFCC">
+			<td rowspan=2>년도</td>
+			<td rowspan=2>회차</td>
+			<td rowspan=2>추첨일</td>
+			<!--<td rowspan=2>판매액</td>-->
+			<td colspan=2>1등</td>
+			<td colspan=2>2등</td>
+			<td colspan=2>3등</td>
+			<td colspan=2>4등</td>
+			<td colspan=2>5등</td>
+			<td colspan=7>당첨번호</td>
+		</tr>
+		<tr align=center bgcolor="#CCFFCC">
+			<td>당첨자수</td>
+			<td>당첨금액</td>
+			<td>당첨자수</td>
+			<td>당첨금액</td>
+			<td>당첨자수</td>
+			<td>당첨금액</td>
+			<td>당첨자수</td>
+			<td>당첨금액</td>
+			<td>당첨자수</td>
+			<td>당첨금액</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>보너스</td>
+		</tr>
+	    
+	    
+	    	
+			<tr>
+			
+				<td bgcolor='#ccffff'  rowspan="7" align="center">2020</td>
+							
+				<td align="right">942</td>
+				<td align="center">2020.12.19</td>
+				<td align="right" bgcolor='#ffff99'>6</td>
+				<td align="right">3,761,680,313원</td>
+				
+				<td align="right" bgcolor='#ffff99'>52</td>
+				<td align="right">72,340,007원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,473</td>
+				<td align="right">1,521,101원</td>
+				
+				<td align="right" bgcolor='#ffff99'>120,907</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,045,438</td>
+				<td align="right">5,000원</td>
+				
+				<td>10</td>
+				<td>12</td>
+				<td>18</td>
+				<td>35</td>
+				<td>42</td>
+				<td>43</td>
+				<td>39</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">941</td>
+				<td align="center">2020.12.12</td>
+				<td align="right" bgcolor='#ffff99'>16</td>
+				<td align="right">1,347,297,422원</td>
+				
+				<td align="right" bgcolor='#ffff99'>87</td>
+				<td align="right">41,296,473원</td>
+				
+				<td align="right" bgcolor='#ffff99'>3,275</td>
+				<td align="right">1,097,037원</td>
+				
+				<td align="right" bgcolor='#ffff99'>145,544</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,282,851</td>
+				<td align="right">5,000원</td>
+				
+				<td>12</td>
+				<td>14</td>
+				<td>25</td>
+				<td>27</td>
+				<td>39</td>
+				<td>40</td>
+				<td>35</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">940</td>
+				<td align="center">2020.12.05</td>
+				<td align="right" bgcolor='#ffff99'>8</td>
+				<td align="right">2,846,071,079원</td>
+				
+				<td align="right" bgcolor='#ffff99'>51</td>
+				<td align="right">74,407,088원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,329</td>
+				<td align="right">1,629,353원</td>
+				
+				<td align="right" bgcolor='#ffff99'>123,292</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,087,480</td>
+				<td align="right">5,000원</td>
+				
+				<td>3</td>
+				<td>15</td>
+				<td>20</td>
+				<td>22</td>
+				<td>24</td>
+				<td>41</td>
+				<td>11</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">939</td>
+				<td align="center">2020.11.28</td>
+				<td align="right" bgcolor='#ffff99'>13</td>
+				<td align="right">1,708,363,039원</td>
+				
+				<td align="right" bgcolor='#ffff99'>67</td>
+				<td align="right">55,245,571원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,682</td>
+				<td align="right">1,380,110원</td>
+				
+				<td align="right" bgcolor='#ffff99'>128,408</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,127,595</td>
+				<td align="right">5,000원</td>
+				
+				<td>4</td>
+				<td>11</td>
+				<td>28</td>
+				<td>39</td>
+				<td>42</td>
+				<td>45</td>
+				<td>6</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">938</td>
+				<td align="center">2020.11.21</td>
+				<td align="right" bgcolor='#ffff99'>10</td>
+				<td align="right">2,249,466,563원</td>
+				
+				<td align="right" bgcolor='#ffff99'>64</td>
+				<td align="right">58,579,859원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,531</td>
+				<td align="right">1,481,277원</td>
+				
+				<td align="right" bgcolor='#ffff99'>124,971</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,096,955</td>
+				<td align="right">5,000원</td>
+				
+				<td>4</td>
+				<td>8</td>
+				<td>10</td>
+				<td>16</td>
+				<td>31</td>
+				<td>36</td>
+				<td>9</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">937</td>
+				<td align="center">2020.11.14</td>
+				<td align="right" bgcolor='#ffff99'>11</td>
+				<td align="right">2,058,420,819원</td>
+				
+				<td align="right" bgcolor='#ffff99'>57</td>
+				<td align="right">66,206,518원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,480</td>
+				<td align="right">1,521,683원</td>
+				
+				<td align="right" bgcolor='#ffff99'>124,141</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,092,601</td>
+				<td align="right">5,000원</td>
+				
+				<td>2</td>
+				<td>10</td>
+				<td>13</td>
+				<td>22</td>
+				<td>29</td>
+				<td>40</td>
+				<td>26</td>
+				
+			</tr>
+			
+			
+		
+	    	
+			<tr>
+							
+				<td align="right">936</td>
+				<td align="center">2020.11.07</td>
+				<td align="right" bgcolor='#ffff99'>14</td>
+				<td align="right">1,492,069,179원</td>
+				
+				<td align="right" bgcolor='#ffff99'>77</td>
+				<td align="right">45,214,218원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,864</td>
+				<td align="right">1,215,606원</td>
+				
+				<td align="right" bgcolor='#ffff99'>140,160</td>
+				<td align="right">50,000원</td>
+				
+				<td align="right" bgcolor='#ffff99'>2,252,623</td>
+				<td align="right">5,000원</td>
+				
+				<td>7</td>
+				<td>11</td>
+				<td>13</td>
+				<td>17</td>
+				<td>18</td>
+				<td>29</td>
+				<td>43</td>
+				
+			</tr>
+			
+			
+		
+	    
+	</table>
+</body>
+</html>
